@@ -115,4 +115,4 @@ For more details on the physics and methodology, refer to the code documentation
 
 ## License
 
-*License information to be added*
+*MIT License*
